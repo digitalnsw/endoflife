@@ -8,78 +8,78 @@ sidenav:
         subfolderitems:
           -
             page: 'Telling government'
-            url: /telling-people/telling-government/
+            url: /telling-people/telling-government
           -
             page: 'Telling friends and family'
-            url: /telling-people/telling-family-and-friends/
+            url: /telling-people/telling-family-and-friends
       -
         page: 'Getting support'
         url: /getting-support/
         subfolderitems:
           -
             page: 'Financial support'
-            url: /getting-support/financial-support/
+            url: /getting-support/financial-support
           -
             page: 'Mental health and grief'
-            url: /getting-support/mental-health-and-grief/
+            url: /getting-support/mental-health-and-grief
           -
             page: 'Time off work'
-            url: /getting-support/time-off-work/
+            url: /getting-support/time-off-work
       -
         page: 'Arrange the funeral'
         url: /arrange-the-funeral/
         subfolderitems:
           -
             page: 'The service'
-            url: /arrange-the-funeral/arrange-the-funeral/
+            url: /arrange-the-funeral/arrange-the-funeral
           -
             page: 'Getting a funeral director'
-            url: /arrange-the-funeral/getting-a-funeral-director/
+            url: /arrange-the-funeral/getting-a-funeral-director
           -
             page: 'Cremation or burial'
-            url: /arrange-the-funeral/cremation-or-burial/
+            url: /arrange-the-funeral/cremation-or-burial
           -
             page: 'Memorials'
-            url: /arrange-the-funeral/memorials/
+            url: /arrange-the-funeral/memorials
       -
         page: 'Register the death'
         url: /register-the-death/
         subfolderitems:
           -
             page: 'Registering the death'
-            url: /register-the-death/registering-the-death/
+            url: /register-the-death/registering-the-death
           -
             page: 'Getting a death certificate'
-            url: /register-the-death/getting-a-death-certificate/
+            url: /register-the-death/getting-a-death-certificate
       -
         page: 'Cancelling services'
         url: /cancelling-services/
         subfolderitems:
           -
             page: 'Banks'
-            url: /cancelling-services/banks/
+            url: /cancelling-services/banks
           -
             page: 'Mail'
-            url: /cancelling-services/mail/
+            url: /cancelling-services/mail
           -
             page: 'Online accounts'
-            url: /cancelling-services/online-accounts/
+            url: /cancelling-services/online-accounts
       -
         page: 'Wills and inheritance'
         url: /wills-and-inheritance/
         subfolderitems:
           -
             page: 'Notifying people'
-            url: /wills-and-inheritance/notifying-people/
+            url: /wills-and-inheritance/notifying-people
           -
             page: 'Getting a lawyer'
-            url: /wills-and-inheritance/getting-a-lawyer/
+            url: /wills-and-inheritance/getting-a-lawyer
           -
             page: 'Wills'
             url: /wills-and-inheritance/wills/
           -
             page: 'Financial information'
-            url: /wills-and-inheritance/financial-information/
+            url: /wills-and-inheritance/financial-information
 
 mainnav:
   -
