@@ -1,19 +1,24 @@
-# Basic markdown page example (h1)
+Steps to take after a death
+===========================
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+Placeholder for entry copy. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquet nulla vel justo mollis sagittis. Integer ultricies mi sed leo pharetra nullam.
 
-These headings introduce, respectively, sections and subsections within your body copy. As you create these headings, follow the same guidelines that you use when writing section headings: Be succinct, descriptive, and precise.
+### [What to do immediately after someone dies](#)
 
-## Subsection heading (h2)
+Who to contact, taking leave from work, and organising care of the body.
 
-The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
+### [Get a death certificate](#)
 
-Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
+It takes around 2 weeks for a certificate to arrive. You’ll need a death certificate when dealing with someone’s estate, applying for support, or cancelling services.
 
-### Subsection heading (h3)
+### [Register the death](#)
 
-Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
+Usually your funeral director will register the death for you. You can register the death yourself if you are the next-of-kin or a relative.
 
-Read the full documentation on our side navigation on the component page.
+### [Get financial help when someone dies](#)
 
-Demonstration.
+Getting help with Centrelink payments, paying for the funeral, and leave benefits.
+
+### [Wills and inheritance](#)
+
+Sorting out tax and financial issues, getting a lawyer.
