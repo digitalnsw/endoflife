@@ -2,7 +2,7 @@ sidenav:
   -
     title: 'What to do after a death'
     items:
-    -
+      -
         page: 'First steps'
         url: /first-steps/
         subfolderitems:
