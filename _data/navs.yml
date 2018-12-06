@@ -3,15 +3,15 @@ sidenav:
     title: 'What to do after a death'
     items:
       -
-        page: 'Telling people'
-        url: /telling-people/
+        page: 'Letting people know'
+        url: /letting-people-know/
         subfolderitems:
           -
             page: 'Telling government'
-            url: /telling-people/telling-government
+            url: /letting-people-know/telling-government
           -
             page: 'Telling friends and family'
-            url: /telling-people/telling-family-and-friends
+            url: /letting-people-know/telling-family-and-friends
       -
         page: 'Getting support'
         url: /getting-support/
