@@ -2,6 +2,16 @@ sidenav:
   -
     title: 'What to do after a death'
     items:
+    -
+        page: 'First steps'
+        url: /first-steps/
+        subfolderitems:
+          -
+            page: 'Telling emergency services'
+            url: /letting-people-know/telling-emergency-services
+          -
+            page: 'If the death happened at home'
+            url: /letting-people-know/if-the-death-happened-at-home
       -
         page: 'Letting people know'
         url: /letting-people-know/
