@@ -83,16 +83,6 @@ sidenav:
 
 mainnav:
   -
-    items:
-      -
-        page: 'Home'
-        url: /
-      -
-        page: 'Basic page'
-        url: /basic/
-      -
-        page: 'Form page'
-        url: /form/
 
 bottomnav:
   -
