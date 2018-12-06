@@ -7,6 +7,9 @@ name: Financial support
 ### If death of child
 ### If death of partner
 ### If a veteran
+
+teterhere
+
 ### If you are a dependent [of deceased on a pension]
 ## Help paying for the funeral
 ## Related
