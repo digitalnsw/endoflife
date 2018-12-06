@@ -8,4 +8,5 @@ name: Financial support
 ## If death of partner
 ## If a veteran
 ## If you are a dependent [of deceased on a pension]
+## Help paying for the funeral
 ## Related
