@@ -19,6 +19,7 @@ In NSW, the average funeral costs around $4000. When organising the funeral, you
 ### Ways to pay for a funeral
 ### If you can't pay for a funeral
 ## Related
+## Related test
 
 Sometimes this is in the will. If it’s not on the will, generally this falls to the next of kin.
 If the deceased had a will, the executor is responsible for arranging the funeral unless he or she decides to pass the responsibility to another family member.
