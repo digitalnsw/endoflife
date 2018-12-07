@@ -28,6 +28,8 @@ Your doctor might have given you a certificate
 You can keep the body for 5 days
 
 ## Locate the will
+If there is a  will
+for more: locate the will (../wills) 
 
 ## Related
 
