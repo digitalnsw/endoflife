@@ -1,11 +1,16 @@
 Steps to take after a death
 ===========================
 
-The things you need to do
+What you need to do after a death will be different depending on:
 
-There are things you will need to do right away, and some things can wait until later.
+* if there is a will
+* if there are children or dependents
+* whether you are receiving government benefits
+* whether the death happens at home or in care
 
-Check what to do after a death, including notifying government departments,
+You will need to do some things right away, but many things can wait until after the funeral.
+
+Use this guide to check what to do after a death.
 
 ### [What to do immediately after someone dies](first-steps)
 
