@@ -1,3 +1,11 @@
+---
+breadcrumb: Getting a death certificate
+name: Getting a death certificate
+---
+
+Getting a death certificate
+===========================
+
 # How to get a death certificate
 ## who you need to contact to get a death certificate
 ## Who can get a death certificate?

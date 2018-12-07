@@ -1,10 +1,18 @@
+---
+breadcrumb: First steps
+name: First steps
+---
+
+First steps
+===========================
+
 # Steps to take immediately
 When someone dies, some things need to be done immediately. If the death happened outside of the hospital or health care facility, contact your hospital.
 
 ## If death happened in hospital or medical care
 
 ## If the death happened at home
-If the death was planned - test test test 
+If the death was planned - test test test
 ### Contacting emergency services
 
 ### Organise care for the body

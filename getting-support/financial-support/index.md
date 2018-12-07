@@ -2,7 +2,8 @@
 breadcrumb: Financial support
 name: Financial support
 ---
-# Financial support available
+Wills and inheritance
+===========================
 ## Getting bereavement leave
 ### If death of child
 ### If death of partner

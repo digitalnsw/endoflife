@@ -1,4 +1,4 @@
-Steps to take after a death
+What you need to do
 ===========================
 
 What you need to do after a death will be different depending on:

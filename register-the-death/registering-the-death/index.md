@@ -1,4 +1,11 @@
-# Registering the death 
+---
+breadcrumb: Registering the death
+name: Registering the death
+---
+
+Registering the death
+===========================
+
 ## What you need to register the death ##
 ## Medical Certificate of Cause of Death
 ## If your child is stillborn
