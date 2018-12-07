@@ -4,7 +4,7 @@ When someone dies, some things need to be done immediately. If the death happene
 ## If death happened in hospital or medical care
 
 ## If the death happened at home
-If the death was planned
+If the death was planned - test test test 
 ### Contacting emergency services
 
 ### Organise care for the body
