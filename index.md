@@ -1,27 +1,31 @@
 Steps to take after a death
 ===========================
 
-Placeholder for entry copy. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquet nulla vel justo mollis sagittis. Integer ultricies mi sed leo pharetra nullam.
+The things you need to do
 
-### [What to do immediately after someone dies](#)
+There are things you will need to do right away, and some things can wait until later.
 
-Who to contact, taking leave from work, and organising care of the body.
+Check what to do after a death, including notifying government departments, 
 
-### [Get a death certificate](#)
+### [What to do immediately after someone dies](#first-steps)
 
-It takes around 2 weeks for a certificate to arrive. You’ll need a death certificate when dealing with someone’s estate, applying for support, or cancelling services.
+Who to contact, what happens with the body, and what happens if there are dependents.
 
-### [Register the death](#)
+### [Get a death certificate](#register-the-death/getting-a-death-certificate)
 
-Usually your funeral director will register the death for you. You can register the death yourself if you are the next-of-kin or a relative.
+What you need to get a death certificate, how to do it, how long it will take, and what you can use a death certificate for.
 
-### [Get financial help when someone dies](#)
+### [Register the death](#register-the-death)
 
-Getting help with Centrelink payments, paying for the funeral, and leave benefits.
+Usually your funeral director will register the death for you. If you are the next-of-kin or a relative, you can register the death yourself.
 
-### [Wills and inheritance](#)
+### [Get financial help](#getting-support/financial-support)
 
-Sorting out tax and financial issues, getting a lawyer.
+Help with Centrelink payments, paying for the funeral, and paid leave from work.
+
+### [Wills and inheritance](#wills-and-inheritance)
+
+What to do with the will, finding beneficiaries, getting a lawyer, and tax.
 
 
 #
