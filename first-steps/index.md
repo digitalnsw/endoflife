@@ -8,11 +8,11 @@ First steps
 
 Time: Immediate
 
-When someone dies, some things need to be done immediately.
+When someone dies, some things need to be done right away.
 
 ## Let authorities know
 
-If the person was in care when they died or the death was expected, call their doctor or nurse.
+If the person was in care when they died or the death was  expected, call their doctor or nurse.
 
 If the person died unexpectedly or in an accident, call 000.
 
@@ -22,7 +22,7 @@ Depending on how the person died, a doctor, nurse or coroner will examine the bo
 
 ## Organise care of the body
 
-When someone dies, their body needs to be cared for in specific ways, if you are
+When someone dies, their body needs to be cared for. 
 
 This will be organised by the hospital and funeral director if you have one.
 
@@ -30,13 +30,23 @@ Transport of the body
 Storage of the body
 Preparation and care of the body
 
-If you don't have a funeral director...
+<!-- If you don't have a funeral director... I am uncertain that this is necessary in this content. Obviously there is some necessity to do this in the long term, but as such a small segment I don't think it's high-value -->
+
+
+## At the hospital 
+
 
 * medical certificate of cause of death
+Assigned by doctor 
+Follows the body to funeral home
+If referred to coroner, there are extra steps 
 
 ## If the death happened at home
 
-Your doctor might have given you a certificate
+Your doctor might have given you a certificate to complete yourself. 
+Contact the doctor that has given you this certificate - they will need to fill this out. 
+Time frame? (It's my current understanding that this does not need to be immediate. At what point do you need to have the body transported? 
+
 
 ## Keeping the body at home
 You can keep the body for 5 days
@@ -46,6 +56,7 @@ If you want to keep the body in your home before the funeral, you will need
  * talk with the funeral director about Transport
 
 ## Locate the will
+
 If there is a  will
 The will might tell you
 * wishes for the funeral
