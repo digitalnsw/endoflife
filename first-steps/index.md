@@ -33,7 +33,7 @@ Preparation and care of the body
 <!-- If you don't have a funeral director... I am uncertain that this is necessary in this content. Obviously there is some necessity to do this in the long term, but as such a small segment I don't think it's high-value -->
 
 
-## At the hospital 
+## At hospital, nursing homes, and other care
 
 
 * medical certificate of cause of death
