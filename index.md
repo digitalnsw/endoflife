@@ -1,7 +1,7 @@
 Steps to take
 ===========================
 
-What you need to do after a death will be different depending on:
+In New South Wales, what you need to do after a death will be different depending on:
 
 * if there is a will
 * if there are children or dependents
