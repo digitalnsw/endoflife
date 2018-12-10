@@ -6,6 +6,15 @@ name: First steps
 First steps
 ===========================
 
+<!--
+  Light:  <p class="au-callout">
+  Dark:   <p class="au-callout au-callout--dark">
+-->
+
+<p class="au-callout" aria-label="Callout description1">
+  A callout.
+</p>
+
 > On this page:
 > * [some text](#let-authorities-know)
 > * [some text](#organise-care-of-the-body)
