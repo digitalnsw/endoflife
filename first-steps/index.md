@@ -38,13 +38,13 @@ The hospital or aged care facility will organise care of the body with your fune
 
 * Transport of the body to a funeral home or house
 * Storing the body before the funeral
-* Preparing the body for cremation or burial 
+* Preparing the body for cremation or burial
 
 <!-- If you don't have a funeral director... I am uncertain that this is necessary in this content. Obviously there is some necessity to do this in the long term, but as such a small segment I don't think it's high-value -->
 
 
 ## Care for the body at home
-You can keep the body for up to 5 days
+You can keep the body for up to 5 days in your home.
 
 If you want to keep the body in your home before the funeral, you will need to organise:
 

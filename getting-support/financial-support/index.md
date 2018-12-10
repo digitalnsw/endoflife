@@ -14,3 +14,5 @@ Wills and inheritance
 ### If you are a dependent [of deceased on a pension]
 ## Help paying for the funeral
 ## Related
+
+https://legalanswers.sl.nsw.gov.au/rest-assured-legal-guide-wills-estates-and-funerals/financial-assistance-funerals
