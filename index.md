@@ -1,4 +1,4 @@
-Steps to take
+What to do after a death
 ===========================
 
 In New South Wales, what you need to do after a death will be different depending on:
