@@ -12,12 +12,13 @@ First steps
 -->
 
 <p class="au-callout" aria-label="Callout description1">
-  A callout.
+On this page:
+* [some text](#let-authorities-know)
+* [some text](#organise-care-of-the-body)
+
 </p>
 
-> On this page:
-> * [some text](#let-authorities-know)
-> * [some text](#organise-care-of-the-body)
+
 
 Time: Immediate
 
