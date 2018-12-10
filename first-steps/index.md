@@ -13,12 +13,10 @@ First steps
 
 <p class="au-callout" aria-label="Callout description1">
 On this page:
-* [some text](#let-authorities-know)
+* <a href=#let-authorities-know> Let authorities know </a> [some text](#let-authorities-know)
 * [some text](#organise-care-of-the-body)
 
 </p>
-
-
 
 Time: Immediate
 
