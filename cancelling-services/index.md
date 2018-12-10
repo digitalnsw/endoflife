@@ -5,8 +5,9 @@ name: Cancelling services
 
 Cancelling services
 ===========================
-## banks
-## utilities
-## mail
-## digital assets
-## Related
+## Cancelling bank accounts
+## Cancelling phone, electricity, gas
+## Cancelling mail or mail boxes
+## Digital assets
+
+### Related

@@ -32,5 +32,3 @@ Help with Centrelink payments, paying for the funeral, and paid leave from work.
 ### [Wills and inheritance](wills-and-inheritance)
 
 What to do with the will, finding beneficiaries, getting a lawyer, and tax.
-
-#
