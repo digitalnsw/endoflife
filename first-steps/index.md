@@ -12,15 +12,13 @@ First steps
 -->
 
 <p class="au-callout" aria-label="Callout description1">
-On this page:
-* <a href=#let-authorities-know> Let authorities know </a> [some text](#let-authorities-know)
-* [some text](#organise-care-of-the-body)
-
+When someone dies, these are the things that need to be done right away.
 </p>
+On this page:
+* [Let authorities know](#let-authorities-know)
+* [Organise care of the body](#organise-care-of-the-body)
+* [Locate the will](#locate-the-will)
 
-Time: Immediate
-
-When someone dies, some things need to be done right away.
 
 ## Let authorities know
 
