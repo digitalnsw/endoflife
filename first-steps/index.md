@@ -95,3 +95,4 @@ for more: [locate the will](wills-and-inheritance/wills)
 * Care for children or other dependents [possible page]
 * Care for pets [possible page]
 * Arranging the funeral
+*
