@@ -21,9 +21,24 @@ Usually this will involve:
 - [death certificate](/register-the-death/getting-a-death-certificate)
 - the account details
 
-If the account is not in a joint name, it will be distributed as part of the wills process. 
+If the account is not in a joint name, it will be distributed as part of the wills process.
+Top four banks in NSW
+- Westpac
+- ANZ
+- CommBank
+- NAB
+
 
 ## Cancelling phone, electricity, gas
+Top three energy providers:
+* AGL 23%
+* EnergyAustralia: 28%
+* Origin Energy: 33%
+
+Source: iPart.nsw.gov.au
+<!-- source of market share of energy companies in NSW https://www.ipart.nsw.gov.au/files/sharedassets/website/shared-files/investigation-compliance-monitoring-energy-publications-electricity-gas-market-monitoring-201718/draft-report-review-of-the-performance-and-competitivness-of-the-retail-energy-market-in-nsw-october-2018.pdf -->
+
+
 To change the deceased customer’s account and power supply, you need to be authorised to act on their behalf. You could be:
 
 A primary or joint account holder on the account

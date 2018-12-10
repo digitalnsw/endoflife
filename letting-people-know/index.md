@@ -5,8 +5,14 @@ name: Letting people know
 
 Letting people know
 ===========================
+<!--
+  Light:  <p class="au-callout">
+  Dark:   <p class="au-callout au-callout--dark">
+-->
 
-Contact Centrelink immediately if you or the person who has died received payments.
+<p class="au-callout" aria-label="Callout description1">
+If the person who has died received government payments, contact Centrelink on 13.
+</p>
 
 
 ## Telling government
