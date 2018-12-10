@@ -38,9 +38,7 @@ The hospital or aged care facility will organise care of the body with your fune
 
 * Transport of the body to a funeral home or house
 * Storing the body before the funeral
-* Preparing the body for cremation or burial
-
-If you did not
+* Preparing the body for cremation or burial 
 
 <!-- If you don't have a funeral director... I am uncertain that this is necessary in this content. Obviously there is some necessity to do this in the long term, but as such a small segment I don't think it's high-value -->
 
@@ -90,7 +88,7 @@ The will might tell you
 * steps to take relating house and assets
 * where to find contact lists
 
-for more: [locate the will](..wills-and-inheritance/wills)
+for more: [locate the will](wills-and-inheritance/wills)
 
 ## Related
 
