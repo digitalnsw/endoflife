@@ -7,8 +7,9 @@ First steps
 ===========================
 
 > On this page:
-> [some text](#markdown-header-let-authorities-know)
-> [some text](#markdown-header-organise-care-of-the-body)
+> * [some text](#let-authorities-know)
+> * [some text](#organise-care-of-the-body)
+
 Time: Immediate
 
 When someone dies, some things need to be done right away.
