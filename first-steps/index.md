@@ -6,6 +6,9 @@ name: First steps
 First steps
 ===========================
 
+> On this page:
+> [some text](#markdown-header-let-authorities-know)
+> [some text](#markdown-header-organise-care-of-the-body)
 Time: Immediate
 
 When someone dies, some things need to be done right away.
@@ -22,7 +25,7 @@ Depending on how the person died, a doctor, nurse or coroner will examine the bo
 
 ## Organise care of the body
 
-When someone dies, their body needs to be cared for. 
+When someone dies, their body needs to be cared for.
 
 This will be organised by the hospital and funeral director if you have one.
 
@@ -37,15 +40,15 @@ Preparation and care of the body
 
 
 * medical certificate of cause of death
-Assigned by doctor 
+Assigned by doctor
 Follows the body to funeral home
-If referred to coroner, there are extra steps 
+If referred to coroner, there are extra steps
 
 ## If the death happened at home
 
-Your doctor might have given you a certificate to complete yourself. 
-Contact the doctor that has given you this certificate - they will need to fill this out. 
-Time frame? (It's my current understanding that this does not need to be immediate. At what point do you need to have the body transported? 
+Your doctor might have given you a certificate to complete yourself.
+Contact the doctor that has given you this certificate - they will need to fill this out.
+Time frame? (It's my current understanding that this does not need to be immediate. At what point do you need to have the body transported?
 
 
 ## Keeping the body at home
