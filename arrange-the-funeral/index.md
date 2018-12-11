@@ -4,7 +4,7 @@ name: Arrange the funeral
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
       <span class="au-progress-indicator__status">Doing</span>
-      In progress
+      Getting content from source material
     </a>
 
 Arrange the funeral
@@ -68,14 +68,13 @@ Many funeral directors are part of the same group. When you are comparing prices
 ## Related
 ## Finding a cemetery or crematorium
 
-
 Sometimes this is in the will. If it’s not on the will, generally this falls to the next of kin.
 
 If the deceased had a will, the executor is responsible for arranging the funeral unless he or she decides to pass the responsibility to another family member.
 
 “If the deceased did not have a will, or if no executor was appointed in the will, then the next of kin or close relative of the deceased can arrange the funeral.
 
-Icon - alert   If there is a dispute about who should arrange the funeral, you should get legal advice.” (LawAccess)
+If there is a dispute about who should arrange the funeral, you should get legal advice.” (LawAccess)
 
 ## What is a basic funeral
 “What is a basic funeral?
