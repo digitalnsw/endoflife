@@ -5,6 +5,32 @@ name: Arrange the funeral
 
 Arrange the funeral
 ===========================
+<ul class="au-progress-indicator">
+  <li>
+    <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+      <span class="au-progress-indicator__status">To do</span>
+      Gather content from source material
+    </a>
+  </li>
+  <li>
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+      <span class="au-progress-indicator__status">To do</span>
+      First draft (humanise, simplify, clarify)
+    </a>
+  </li>
+  <li>
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+      <span class="au-progress-indicator__status">To do</span>
+      Researcher review of content
+    </a>
+  </li>
+  <li>
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+      <span class="au-progress-indicator__status">To do</span>
+      Second draft (ready for user review)
+    </a>
+  </li>
+</ul>
 
 Time: Within the first 2 days talk to funeral directors or family about the funeral arrangements
 
@@ -22,6 +48,16 @@ Funerals, memorials and wakes
 
 ### Funeral services at home
 ### Memorials, headstones, and family plots
+
+Purchased plots
+A person may purchase a burial plot from a cemetery before they die. The person does not legally own the burial plot. The purchaser of the burial plot, called the 'licence holder', purchases the right to be buried in the plot and may be able to nominate another person to also be buried in the same plot.
+
+There are restrictions on the number of people that can be buried in a single plot and you should check with the cemetery before making any arrangements for burial. When the licence holder dies, the purchased plot becomes part of their estate. If there is no will, the next of kin becomes the holder of the burial licence.
+
+A burial licence may be transferred to another person with the permission of the cemetery. You must contact the cemetery to find out their requirements to transfer the burial licence.
+
+<!-- http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx -->
+
 
 ## Paying for a funeral
 ### How much does a funeral cost?

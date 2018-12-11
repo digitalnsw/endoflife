@@ -15,19 +15,25 @@ Paying for a funeral
   <li>
     <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
       <span class="au-progress-indicator__status">To do</span>
-      Source content
+      Gather content from source material
     </a>
   </li>
   <li>
     <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
       <span class="au-progress-indicator__status">To do</span>
-      First pass
+      First draft (humanise, simplify, clarify)
     </a>
   </li>
   <li>
-    <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
       <span class="au-progress-indicator__status">To do</span>
-      Researcher reviewed
+      Researcher review of content
+    </a>
+  </li>
+  <li>
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+      <span class="au-progress-indicator__status">To do</span>
+      Second draft (ready for user review)
     </a>
   </li>
 </ul>
