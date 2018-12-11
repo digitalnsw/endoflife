@@ -39,31 +39,27 @@ A burial licence may be transferred to another person with the permission of the
 
 ## Paying for a funeral
 ### How much does a funeral cost?
-Costs: funeral, burial and
-cremation
-● The cost of a basic funeral starts from
-about $4,000. This amount will increase
-depending on how elaborate the casket,
-flowers, burial and other arrangements
-are.
-● A basic cremation costs about $4,000.
-● A basic burial costs about $5,000; and in
+Costs: funeral, burial and cremation
+
+The cost of a basic funeral starts from about $4,000. This amount will increase depending on how elaborate the casket, flowers, burial and other arrangements are.
+
+* A basic cremation costs about $4,000.
+* A basic burial costs about $5,000; and in
 addition you will need to pay for the burial
 plot which costs from $2,600 to $15,500.
 
 Typical items that a funeral director can
 charge for are:
-● funeral directors’ fees
-● transport for the body and the family
-● coffin
-● obtaining the death certificate
-● obtaining any permits
-● burial or cremation costs
-● the cost of the cemetery plot
-Many funeral directors are part of the same
-group. When you are comparing prices, make
-sure that you are getting a real comparison
-between different companies.
+
+* funeral director fees
+* transport for the body and the family
+* coffin
+* obtaining the death certificate
+* obtaining any permits
+* burial or cremation costs
+* the cost of the cemetery plot
+
+Many funeral directors are part of the same group. When you are comparing prices, make sure that you are getting a real comparison between different companies.
 
 <!-- COTA victoria -->
 
