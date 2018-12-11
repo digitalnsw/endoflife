@@ -27,7 +27,7 @@ Try to spend only what you can afford. Here are some of the costs to consider:
 * Cemetary plot
 * Other expenses, such as a celebrant or clergy, flowers, newspaper notices and the wake.
 
-<!-- https://www.moneysmart.gov.au/life-events-and-you/life-events/losing-your-partner -->
+^ <!-- https://www.moneysmart.gov.au/life-events-and-you/life-events/losing-your-partner -->
 
 
 # Ways to pay for a funeral
@@ -55,7 +55,7 @@ For more information about different types of funeral plans, go to the NSW Depar
 
 For information on funeral plans and paying for funerals for Aboriginal and Torres Strait Islander people, go to the ASIC website.
 
-<!-- source: http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx -->
+^ <!-- source: http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx -->
 
 
 ## If you can't pay for a funeral
@@ -71,7 +71,7 @@ The cost of a destitute funeral is paid by the Area Health Service and is a basi
 
 The deceased is usually cremated unless the deceased's next of kin or relatives refuse cremation. If the deceased is cremated, the next of kin is entitled to have the ashes of the deceased. If the deceased's next of kin requests a burial instead of cremation, the deceased will be buried in a common grave. The grave site is identified by a number with no other headstone.
 
-<!-- http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx -->
+^ <!-- http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx -->
 
 ## Getting help with funeral costs
 If you are paying for a partner's funeral, their bank may be able to release money from their account to help pay funeral expenses before 'probate' is granted (that is, before the court validates their will).
@@ -84,4 +84,4 @@ A bereavement payment may be available through the Department of Human Services.
 
 ## Related
 
-<!-- ASIC: MoneySmart arranging a funeral https://www.moneysmart.gov.au/life-events-and-you/life-events/losing-your-partner -->
+^ <!-- ASIC: MoneySmart arranging a funeral https://www.moneysmart.gov.au/life-events-and-you/life-events/losing-your-partner -->

@@ -35,8 +35,8 @@ Top three energy providers:
 * EnergyAustralia: 28%
 * Origin Energy: 33%
 
-Source: iPart.nsw.gov.au
-<!-- source of market share of energy companies in NSW https://www.ipart.nsw.gov.au/files/sharedassets/website/shared-files/investigation-compliance-monitoring-energy-publications-electricity-gas-market-monitoring-201718/draft-report-review-of-the-performance-and-competitivness-of-the-retail-energy-market-in-nsw-october-2018.pdf -->
+
+^ <!-- Source: iPart.nsw.gov.au. source of market share of energy companies in NSW https://www.ipart.nsw.gov.au/files/sharedassets/website/shared-files/investigation-compliance-monitoring-energy-publications-electricity-gas-market-monitoring-201718/draft-report-review-of-the-performance-and-competitivness-of-the-retail-energy-market-in-nsw-october-2018.pdf -->
 
 
 To change the deceased customer’s account and power supply, you need to be authorised to act on their behalf. You could be:
@@ -47,7 +47,7 @@ The deceased’s solicitor
 A trustee or business partner of the deceased.
 If you’re not the primary account holder, then providing some written evidence will help us to make those changes quickly.
 
-https://www.originenergy.com.au/for-home/electricity-and-gas/billing-payments/deceased-estates.html
+^<!-- https://www.originenergy.com.au/for-home/electricity-and-gas/billing-payments/deceased-estates.html-->
 
 ## Cancelling mail or mail boxes
 Register their details on the Association for data-driven marketing and advertising website or write to:
@@ -69,7 +69,7 @@ https://www.donotcall.gov.au/
 - Yahoo: https://help.yahoo.com/kb/SLN2021.html?guccounter=1
 - hotmail: https://support.office.com/en-us/community?threadid=bd09f1b9-9c92-47c9-97b0-2f4a93fce670
 
-<!--- these three are chosen because they are the most-used email providers in australia --->
+~<!--- these three are chosen because they are the most-used email providers in australia --->
 
 
 https://www.bereavementadvice.org/topics/registering-a-death-and-informing-others/how-to-contact-different-services-digital-legacy/

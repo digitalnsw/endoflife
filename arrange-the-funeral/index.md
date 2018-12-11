@@ -34,7 +34,7 @@ There are restrictions on the number of people that can be buried in a single pl
 
 A burial licence may be transferred to another person with the permission of the cemetery. You must contact the cemetery to find out their requirements to transfer the burial licence.
 
-<!-- http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx -->
+~ <!-- http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx -->
 
 
 ## Paying for a funeral
@@ -61,7 +61,7 @@ charge for are:
 
 Many funeral directors are part of the same group. When you are comparing prices, make sure that you are getting a real comparison between different companies.
 
-<!-- COTA victoria -->
+~ <!-- COTA victoria -->
 
 ### Ways to pay for a funeral
 ### If you can't pay for a funeral
@@ -94,7 +94,7 @@ A basic funeral includes only the following:
 * Using a funeral director
 * When does a funeral need to happen
 
-<!-- this is taken from the state library legal matters website -->
+~ <!-- this is taken from the state library legal matters website -->
 
 ## Funerals at home
 If at home, the body can only stay with the family for 5 days.
@@ -123,7 +123,7 @@ body at home for a day or two, you may need
 to hire a cold bed which will keep the body
 cool.
 
-<!-- cota victoria - death of a partner -->
+^ <!-- cota victoria - death of a partner -->
 
 
 ## Keeping the ashes

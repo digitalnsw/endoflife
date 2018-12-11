@@ -30,7 +30,7 @@ If the person was in care when they died, contact their doctor or nurse.
 
 Depending on how the person died, a doctor, nurse or coroner will examine the body and decide what happens next.
 
-<!--   adapted from NZ content    -->
+^ <!--   adapted from NZ content    -->
 
 ## Organise care of the body
 
@@ -43,9 +43,10 @@ If you are using a funeral director, the hospital or aged care facility will org
 Most funeral directors are available 24 hours, seven days a week.
 
 If you would like to make the funeral and other arrangements yourself, ask the funeral director if they will simply store the body and transport it to the burial or cremation location.
-<!-- COTA Vic care for the body (page 3) https://www.moneysmart.gov.au/media/561071/death-of-a-partner-v3pdf.pdf -->
 
-<!-- If you don't have a funeral director... I am uncertain that this is necessary in this content. Obviously there is some necessity to do this in the long term, but as such a small segment I don't think it's high-value -->
+^ <!-- COTA Vic care for the body (page 3) https://www.moneysmart.gov.au/media/561071/death-of-a-partner-v3pdf.pdf -->
+
+~ <!-- If you don't have a funeral director... I am uncertain that this is necessary in this content. Obviously there is some necessity to do this in the long term, but as such a small segment I don't think it's high-value -->
 
 ## Care for the body at home
 
@@ -59,9 +60,9 @@ If you would like to keep the body in your home before the funeral, you will nee
  * transport for the body to and from your home
 
 
-Not all funeral directors provide cooling blankets or transport to your home. For help with this, talk to your funeral director. 
+Not all funeral directors provide cooling blankets or transport to your home. For help with this, talk to your funeral director.
 
- <!-- COTA Vic care for the body (page 3) https://www.moneysmart.gov.au/media/561071/death-of-a-partner-v3pdf.pdf -->
+^  <!-- COTA Vic care for the body (page 3) https://www.moneysmart.gov.au/media/561071/death-of-a-partner-v3pdf.pdf -->
 
 ## Medical Certificate of Cause of Death
 

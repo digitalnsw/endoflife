@@ -34,17 +34,19 @@ There are many government agencies that you will need to tell.
 
 If you want to register the death...
 
-<!-- Auspost https://auspost.com.au/receiving/manage-your-mail/redirect-hold-mail -->
+Auspost
+^AusPost<!-- Auspost https://auspost.com.au/receiving/manage-your-mail/redirect-hold-mail -->
 
-<!-- AEC removal of names from roll: https://www.aec.gov.au/FAQs/Electoral_Roll.htm#relative
+
+^AEC<!-- AEC removal of names from roll: https://www.aec.gov.au/FAQs/Electoral_Roll.htm#relative
 and
 https://formupload.aec.gov.au/Form?FormId=Notificationdeath -->
 
-<!-- ATO death notification form: https://www.ato.gov.au/forms/notification-of-a-deceased-person/ -->
+^ATO <!-- ATO death notification form: https://www.ato.gov.au/forms/notification-of-a-deceased-person/ -->
 
-<!-- Centrelink notice of death form: https://www.humanservices.gov.au/sites/default/files/2018/03/sa116a-1706en-f.pdf -->
+^DHS<!-- Centrelink notice of death form: https://www.humanservices.gov.au/sites/default/files/2018/03/sa116a-1706en-f.pdf -->
 
-<!-- Checklist from lawAccess: http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/forms/checklist_who_to_notify_after_someone_dies.aspx -->
+^lawAccess<!-- Checklist from lawAccess: http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/forms/checklist_who_to_notify_after_someone_dies.aspx -->
 
 <!-- Checklist page? With what you need. -->
 
@@ -62,7 +64,7 @@ parents of the deceased
 other relatives
 friends
 
-<!-- Source: http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx -->
+^<!-- Source: http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/who_do_you_notify_after_someone_dies/who_do_you_notify_after_someone_dies.aspx -->
 
 Finding out the contact details of people.
 * with the will,
