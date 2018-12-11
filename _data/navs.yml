@@ -43,8 +43,8 @@ sidenav:
             page: 'Cremation or burial'
             url: /arrange-the-funeral/cremation-or-burial
           -
-            page: 'Memorials'
-            url: /arrange-the-funeral/memorials
+            page: 'Paying for the funeral'
+            url: /arrange-the-funeral/paying-for-a-funeral
       -
         page: 'Register the death'
         url: /register-the-death/
