@@ -2,35 +2,13 @@
 breadcrumb: Arrange the funeral
 name: Arrange the funeral
 ---
+<a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+      <span class="au-progress-indicator__status">Doing</span>
+      In progress
+    </a>
 
 Arrange the funeral
 ===========================
-<ul class="au-progress-indicator">
-  <li>
-    <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
-      <span class="au-progress-indicator__status">To do</span>
-      Gather content from source material
-    </a>
-  </li>
-  <li>
-    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-      <span class="au-progress-indicator__status">To do</span>
-      First draft (humanise, simplify, clarify)
-    </a>
-  </li>
-  <li>
-    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-      <span class="au-progress-indicator__status">To do</span>
-      Researcher review of content
-    </a>
-  </li>
-  <li>
-    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-      <span class="au-progress-indicator__status">To do</span>
-      Second draft (ready for user review)
-    </a>
-  </li>
-</ul>
 
 Time: Within the first 2 days talk to funeral directors or family about the funeral arrangements
 

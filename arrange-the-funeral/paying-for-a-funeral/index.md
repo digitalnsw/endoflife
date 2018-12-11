@@ -2,41 +2,13 @@
 breadcrumb: Paying for a funeral
 name: Paying for a funeral
 ---
+<a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+      <span class="au-progress-indicator__status">Doing</span>
+      In progress
+    </a>
 
 Paying for a funeral
 ===========================
-
-<!--
-  Light:  <ul class="au-progress-indicator">
-  Dark:   <ul class="au-progress-indicator au-progress-indicator--dark">
--->
-
-<ul class="au-progress-indicator">
-  <li>
-    <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
-      <span class="au-progress-indicator__status">To do</span>
-      Gather content from source material
-    </a>
-  </li>
-  <li>
-    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-      <span class="au-progress-indicator__status">To do</span>
-      First draft (humanise, simplify, clarify)
-    </a>
-  </li>
-  <li>
-    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-      <span class="au-progress-indicator__status">To do</span>
-      Researcher review of content
-    </a>
-  </li>
-  <li>
-    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-      <span class="au-progress-indicator__status">To do</span>
-      Second draft (ready for user review)
-    </a>
-  </li>
-</ul>
 
 ## How much does a funeral cost?
 
