@@ -73,6 +73,13 @@ https://www.donotcall.gov.au/
 
 
 https://www.bereavementadvice.org/topics/registering-a-death-and-informing-others/how-to-contact-different-services-digital-legacy/
+
+## Subscriptions
+## Online Shopping
+- ebay
+- etsy
+- amazon
+
 ## Social Media
 
 ### facebook

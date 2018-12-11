@@ -14,15 +14,50 @@ In NSW, the average funeral costs around $4000. When organising the funeral, you
 ## Who is responsible
 
 ## When to hold the funeral
+
+Funerals, memorials and wakes
+* funeral = held at any time before the burial or cremation where family and friends gather to farewell the dead
+* memorial services = held at any time after the burial or cremation
+* Wake = held immediately after the burial or cremation
+
 ### Funeral services at home
 ### Memorials, headstones, and family plots
 
 ## Paying for a funeral
 ### How much does a funeral cost?
+Costs: funeral, burial and
+cremation
+● The cost of a basic funeral starts from
+about $4,000. This amount will increase
+depending on how elaborate the casket,
+flowers, burial and other arrangements
+are.
+● A basic cremation costs about $4,000.
+● A basic burial costs about $5,000; and in
+addition you will need to pay for the burial
+plot which costs from $2,600 to $15,500.
+
+Typical items that a funeral director can
+charge for are:
+● funeral directors’ fees
+● transport for the body and the family
+● coffin
+● obtaining the death certificate
+● obtaining any permits
+● burial or cremation costs
+● the cost of the cemetery plot
+Many funeral directors are part of the same
+group. When you are comparing prices, make
+sure that you are getting a real comparison
+between different companies.
+
+<!-- COTA victoria -->
+
 ### Ways to pay for a funeral
 ### If you can't pay for a funeral
 ## Related
-## Related test
+## Finding a cemetery or crematorium
+
 
 Sometimes this is in the will. If it’s not on the will, generally this falls to the next of kin.
 
@@ -35,7 +70,7 @@ Icon - alert   If there is a dispute about who should arrange the funeral, you s
 ## What is a basic funeral
 “What is a basic funeral?
 
-A basic funeral is the lowest cost funeral service package the funeral director is able to provide. It consists of a single service, conducted at the funeral director’s premises or at the burial or cremation site. It would take place on a weekday between 8am and 5pm. 
+A basic funeral is the lowest cost funeral service package the funeral director is able to provide. It consists of a single service, conducted at the funeral director’s premises or at the burial or cremation site. It would take place on a weekday between 8am and 5pm.
 
 A basic funeral includes only the following:
 
@@ -50,7 +85,7 @@ A basic funeral includes only the following:
 * Using a funeral director
 * When does a funeral need to happen
 
-<!-- this is taken from the state library legal matters website --> 
+<!-- this is taken from the state library legal matters website -->
 
 ## Funerals at home
 If at home, the body can only stay with the family for 5 days.
@@ -70,6 +105,18 @@ You cannot cremate someone who has made a written direction that they are not to
 
 If you want to bury the deceased in a special way, for example without a coffin, you must contact the Local Health District Public Health Unit to ask permission before you bury the deceased.
 
+Burials and cremations usually happen five to
+ten days after death. However, you can do it
+sooner (for example, for religious reasons) or
+later (for example, to allow time for people to
+travel from overseas). If you wish to keep the
+body at home for a day or two, you may need
+to hire a cold bed which will keep the body
+cool.
+
+<!-- cota victoria - death of a partner -->
+
+
 ## Keeping the ashes
 
 ## Memorials, headstones and family plots [potentially related content depending on size]
@@ -77,7 +124,7 @@ If you want to bury the deceased in a special way, for example without a coffin,
 You are not required to get a headstone or memorial plaque.
 Getting a burial plot
 Family plots
-Interment rights and inheritance 
+Interment rights and inheritance
 
 ## Related: Memorialising veterans
 
