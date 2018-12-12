@@ -6,6 +6,7 @@ name: Cancelling services
       <span class="au-progress-indicator__status">Doing</span>
       In progress
     </a>
+
 Cancelling services
 ===========================
 ## Cancelling bank accounts
