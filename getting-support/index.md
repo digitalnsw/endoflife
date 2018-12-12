@@ -5,9 +5,9 @@ name: Getting support
 
 Getting support
 ===========================
-Short burst of words about getting support with some specific examples about the conditions in which people might get support:
 
+For more information about support services see: 
 
-|Financial support | Grief and mental health| Time off work|
-|---|---|---|
-|tile text|tile text|tile text|
+* [Getting financial support](/getting-support/financial-support)
+* [Getting support with mental health and grief](/getting-support/mental-health-and-grief)
+* [Taking time off work](/getting-support/time-off-work)

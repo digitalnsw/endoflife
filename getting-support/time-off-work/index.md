@@ -3,7 +3,10 @@ breadcrumb: Time off work
 name: Time off work
 ---
 
-Time off work
+Taking time off work
 ===========================
-## Bereavement leave
+Overview
+
+## Getting bereavement leave
+
 ## Related
