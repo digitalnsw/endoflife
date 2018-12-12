@@ -83,9 +83,17 @@ Banks may lend money to pay funeral costs. An application for a loan would be co
 * over what period of time the loan will continue.
 ^<!-- all above categories (from pensioner to financial issues) taken from: https://legalanswers.sl.nsw.gov.au/rest-assured-legal-guide-wills-estates-and-funerals/financial-assistance-funerals-->
 
-## Related
+## Getting financial advice
 
-^<!--https://legalanswers.sl.nsw.gov.au/rest-assured-legal-guide-wills-estates-and-funerals/financial-assistance-funerals-->
+Centrelink offers a free [financial information service](https://www.humanservices.gov.au/individuals/services/financial-information-service). This service can help you to:
+* understand your own financial affairs and options
+* understand financial planners and how to use their advice
+* how to use credit sensibly
+
+<a class="au-cta-link" href="https://www.humanservices.gov.au/individuals/services/financial-information-service">Get more information </a>
+
+
+## Related
 
 ^<!-- Centrelink financial information service https://www.humanservices.gov.au/individuals/services/financial-information-service -->
 
