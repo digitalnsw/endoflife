@@ -10,8 +10,7 @@ name: First steps
               <span class="au-progress-indicator__status">Todo</span>
               Getting content from source material
             </a>
-First steps
-===========================
+# First steps
 
 <!--
   Light:  <p class="au-callout">

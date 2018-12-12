@@ -6,8 +6,8 @@ name: Registering the death
       <span class="au-progress-indicator__status">To Do</span>
       Getting content from source material
     </a>
-Registering the death
-===========================
+
+# Registering the death
 
 Time: within 7 days of the funeral (not sure if this is working days or calendar days?)
 

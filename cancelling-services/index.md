@@ -7,8 +7,8 @@ name: Cancelling services
       In progress
     </a>
 
-Cancelling services
-===========================
+# Cancelling services
+
 ## Cancelling bank accounts
 
 <!--

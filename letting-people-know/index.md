@@ -6,8 +6,8 @@ name: Letting people know
       <span class="au-progress-indicator__status">Doing</span>
       Getting content from source material
     </a>
-Letting people know
-===========================
+
+# Letting people know
 
 When somebody dies, some people and services need to be told quickly, but some can wait until after the funeral.  
 

@@ -7,8 +7,7 @@ name: Arrange the funeral
       Getting content from source material
     </a>
 
-Arrange the funeral
-===========================
+# Arrange the funeral
 
 Time: Within the first 2 days talk to funeral directors or family about the funeral arrangements
 

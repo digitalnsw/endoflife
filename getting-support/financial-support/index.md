@@ -10,8 +10,9 @@ name: Financial support
           <span class="au-progress-indicator__status">Todo</span>
           Getting content from source material
         </a>
-Getting financial support
-===========================
+
+# Getting financial support
+
 
 If you are already on payments. If you need financial advice. If you are Aboriginal or Torres Strait Islander.  
 

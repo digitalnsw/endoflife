@@ -7,8 +7,7 @@ name: Paying for a funeral
       In progress
     </a>
 
-Paying for a funeral
-===========================
+# Paying for a funeral
 
 ## How much does a funeral cost?
 

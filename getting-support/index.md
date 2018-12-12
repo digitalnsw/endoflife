@@ -10,8 +10,8 @@ name: Getting support
           <span class="au-progress-indicator__status">To do</span>
           Humanising language
 </a>
-Getting support
-===========================
+
+# Getting support
 
 For more information about support services see:
 
