@@ -34,7 +34,6 @@ There are many government agencies that you will need to tell.
 
 If you want to register the death...
 
-Auspost
 ^AusPost<!-- Auspost https://auspost.com.au/receiving/manage-your-mail/redirect-hold-mail -->
 
 
