@@ -2,7 +2,10 @@
 breadcrumb: Registering the death
 name: Registering the death
 ---
-
+<a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+      <span class="au-progress-indicator__status">To Do</span>
+      Getting content from source material
+    </a>
 Registering the death
 ===========================
 

@@ -2,11 +2,17 @@
 breadcrumb: Letting people know
 name: Letting people know
 ---
-
+<a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+      <span class="au-progress-indicator__status">Doing</span>
+      Getting content from source material
+    </a>
 Letting people know
 ===========================
 
-Words that centre the user on the page .
+When somebody dies, some people and services need to be told quickly, but some can wait until after the funeral.  
+
+For information about cancelling or transferring services, see [Cancelling services](/cancelling-services)
+
 
 
 ## Telling government
@@ -16,32 +22,15 @@ Words that centre the user on the page .
 -->
 
 <p class="au-callout" aria-label="Callout description1">
-If the person who has died received government payments, contact Centrelink on 13.
+You can wait until after the funeral to start telling most government departments. If the person who has died were receiving Centrelink payments, let Centrelink know right away.  
 </p>
 
 There are many government agencies that you will need to tell.
 
 * Centrelink
-* ATO
 * Department of Veterans affairs
-* International Service (DHS)
-* Landlord or real estate agent
-* NSW Trustee and Guardian
-* AEC
-* Australia Post (so that you can redirect the mail to the executor)
 
 
-
-If you want to register the death...
-
-^AusPost<!-- Auspost https://auspost.com.au/receiving/manage-your-mail/redirect-hold-mail -->
-
-
-^AEC<!-- AEC removal of names from roll: https://www.aec.gov.au/FAQs/Electoral_Roll.htm#relative
-and
-https://formupload.aec.gov.au/Form?FormId=Notificationdeath -->
-
-^ATO <!-- ATO death notification form: https://www.ato.gov.au/forms/notification-of-a-deceased-person/ -->
 
 ^DHS<!-- Centrelink notice of death form: https://www.humanservices.gov.au/sites/default/files/2018/03/sa116a-1706en-f.pdf -->
 

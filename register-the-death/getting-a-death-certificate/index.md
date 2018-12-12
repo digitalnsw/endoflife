@@ -2,7 +2,10 @@
 breadcrumb: Getting a death certificate
 name: Getting a death certificate
 ---
-
+<a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+      <span class="au-progress-indicator__status">todo</span>
+      Getting content from source material
+    </a>
 Getting a death certificate
 ===========================
 Time: After the death has been registered, earliest 2 weeks after the death has been registered  

@@ -2,7 +2,10 @@
 breadcrumb: Cancelling services
 name: Cancelling services
 ---
-
+<a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+      <span class="au-progress-indicator__status">Doing</span>
+      In progress
+    </a>
 Cancelling services
 ===========================
 ## Cancelling bank accounts
@@ -85,4 +88,20 @@ https://www.bereavementadvice.org/topics/registering-a-death-and-informing-other
 ### facebook
 https://www.facebook.com/help/1506822589577997
 
-### Related
+## Government
+* International Service (DHS)
+* Landlord or real estate agent
+* NSW Trustee and Guardian
+* AEC
+* Australia Post (so that you can redirect the mail to the executor)
+
+
+
+^AusPost<!-- Auspost https://auspost.com.au/receiving/manage-your-mail/redirect-hold-mail -->
+
+
+^AEC<!-- AEC removal of names from roll: https://www.aec.gov.au/FAQs/Electoral_Roll.htm#relative
+and
+https://formupload.aec.gov.au/Form?FormId=Notificationdeath -->
+
+^ATO <!-- ATO death notification form: https://www.ato.gov.au/forms/notification-of-a-deceased-person/ -->

@@ -2,7 +2,14 @@
 breadcrumb: First steps
 name: First steps
 ---
-
+<a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+      <span class="au-progress-indicator__status">Doing</span>
+      Getting content from source material
+    </a>
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+              <span class="au-progress-indicator__status">Todo</span>
+              Getting content from source material
+            </a>
 First steps
 ===========================
 
