@@ -4,7 +4,7 @@ name: Getting a death certificate
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
       <span class="au-progress-indicator__status">todo</span>
-      Getting content from source material
+      Get source content
     </a>
 
 # Getting a death certificate

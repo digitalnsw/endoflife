@@ -4,7 +4,7 @@ name: Arrange the funeral
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
       <span class="au-progress-indicator__status">Doing</span>
-      Getting content from source material
+      Get source content
     </a>
 
 # Arrange the funeral

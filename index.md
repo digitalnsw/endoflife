@@ -1,5 +1,12 @@
-What to do after a death
-===========================
+<a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
+      <span class="au-progress-indicator__status">Done</span>
+      Get source content
+    </a>
+    <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+              <span class="au-progress-indicator__status">doing</span>
+              Language and structure edit
+            </a>
+# What to do after a death
 
 In New South Wales, what you need to do after a death will be different depending on:
 

@@ -4,11 +4,11 @@ name: First steps
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
       <span class="au-progress-indicator__status">Done</span>
-      Getting content from source material
+      Get source content
     </a>
-    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-              <span class="au-progress-indicator__status">Todo</span>
-              Getting content from source material
+    <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+              <span class="au-progress-indicator__status">doing</span>
+              Language and structure edit
             </a>
 # First steps
 
