@@ -7,7 +7,7 @@
 
 <div role="alert" class="au-body au-page-alerts au-page-alerts--info">
   <h3>Important</h3>
-  <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our <a href=../about> About Us page </a> </p>
+  <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our About page </p>
 </div>
 
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
