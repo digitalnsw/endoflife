@@ -5,11 +5,6 @@
   Dark Alt:   <div role="alert" class="au-body au-body--dark au-body--alt au-page-alerts au-page-alerts--info au-page-alerts--dark au-page-alerts--alt">
 -->
 
-<div role="alert" class="au-body au-page-alerts au-page-alerts--info">
-  <h3>Important</h3>
-  <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our About page </p>
-</div>
-
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
       <span class="au-progress-indicator__status">Done</span>
       Get source content
@@ -19,6 +14,11 @@
               Language and structure edit
             </a>
 # What to do after a death
+
+<div role="alert" class="au-body au-page-alerts au-page-alerts--info">
+  <h3>Important</h3>
+  <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our About page </p>
+</div>
 
 In New South Wales, what you need to do after a death will be different depending on:
 
