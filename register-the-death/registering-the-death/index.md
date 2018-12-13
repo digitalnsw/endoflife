@@ -2,15 +2,14 @@
 breadcrumb: Registering the death
 name: Registering the death
 ---
-<a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-      <span class="au-progress-indicator__status">To Do</span>
+<a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+      <span class="au-progress-indicator__status">Doing</span>
       Get source content
     </a>
 
 # Registering the death
 
-Time: within 7 days of the funeral (not sure if this is working days or calendar days?)
-
+Time: within 7 days of the funeral
 
 ## If the death occurred overseas
 ## How long does it take for the death to be registered?
@@ -54,13 +53,12 @@ If you are registering the death yourself, you will need to talk to the doctor o
 
 If it’s not clear what has caused the death, the doctor cannot complete a medical certificate of cause of death. The doctor will refer the death If the refer the death to the Coroner.
 
-When a death is referred to the Coroner, they will investigate the death.
-This can cause delays to cremation and burial.
+When a death is referred to the Coroner, they will investigate the death. This can cause delays to cremation and burial.
 
 ## Registering the death of a stillborn child
 A stillbirth which occurs in NSW is registered as a birth and contains a notation of the stillbirth. At the time of registration you also have the option to purchase a birth certificate. As a stillbirth is not registered as a death, the Registry cannot issue a death certificate.
 
 If your baby died shortly after birth, you still need to register the birth of your child. You also have the option to purchase a birth certificate at this time. The funeral director will submit all relevant paperwork relating to the death and may make an application for the death certificate on your behalf.
 
-For more information, go to the [NSW Births, Deaths and Marriages.](https://www.bdm.nsw.gov.au/perinatal#Howtoregister) 
+For more information, go to the [NSW Births, Deaths and Marriages.](https://www.bdm.nsw.gov.au/perinatal#Howtoregister)
 <!-- https://legalanswers.sl.nsw.gov.au/rest-assured-legal-guide-wills-estates-and-funerals/stillborn-babies -->
