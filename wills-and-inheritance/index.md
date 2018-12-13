@@ -5,7 +5,7 @@ name: Wills and inheritance
 
 <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
       <span class="au-progress-indicator__status">To Do</span>
-      Get content from source material
+      Get source content
     </a>
 
 #Wills and inheritance
