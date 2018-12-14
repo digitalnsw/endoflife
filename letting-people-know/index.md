@@ -6,7 +6,27 @@ name: Letting people know
       <span class="au-progress-indicator__status">Doing</span>
       Get source content
     </a>
-
+    <!-- <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+              <span class="au-progress-indicator__status">To Do</span>
+              Language and structure edit
+        </a>
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+              <span class="au-progress-indicator__status">To Do</span>
+              Researcher review
+        </a>
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+              <span class="au-progress-indicator__status">To Do</span>
+              User testing
+        </a>
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+                  <span class="au-progress-indicator__status">To Do</span>
+              Stakeholder review/pair writing
+        </a>
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+                  <span class="au-progress-indicator__status">To Do</span>
+                  Live
+        </a>
+    -->
 # Letting people know
 
 When somebody dies, some people and services need to be told quickly, but some can wait until after the funeral.  

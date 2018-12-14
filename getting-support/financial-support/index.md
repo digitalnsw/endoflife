@@ -10,6 +10,24 @@ name: Financial support
           <span class="au-progress-indicator__status">Todo</span>
           Language and structure edit
         </a>
+<!--
+        <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+                  <span class="au-progress-indicator__status">To Do</span>
+                  Researcher review
+            </a>
+        <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+                  <span class="au-progress-indicator__status">To Do</span>
+                  User testing
+            </a>
+        <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+                      <span class="au-progress-indicator__status">To Do</span>
+                  Stakeholder review/pair writing
+            </a>
+        <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+                      <span class="au-progress-indicator__status">To Do</span>
+                      Live
+            </a>
+        -->
 
 # Getting financial support
 

@@ -4,12 +4,29 @@ name: Getting support
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
       <span class="au-progress-indicator__status">Done</span>
-      Get source content 
+      Get source content
     </a>
 <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-          <span class="au-progress-indicator__status">To do</span>
+          <span class="au-progress-indicator__status">To Do</span>
           Language and structure edit
-</a>
+    </a>
+<!-- <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+          <span class="au-progress-indicator__status">To Do</span>
+          Researcher review
+    </a>
+<a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+          <span class="au-progress-indicator__status">To Do</span>
+          User testing
+    </a>
+<a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+              <span class="au-progress-indicator__status">To Do</span>
+          Stakeholder review/pair writing
+    </a>
+<a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+              <span class="au-progress-indicator__status">To Do</span>
+              Live
+    </a>
+-->
 
 # Getting support
 
