@@ -1,9 +1,3 @@
-<!--
-  Light:      <div role="alert" class="au-page-alerts au-page-alerts--info">
-  Light Alt:  <div role="alert" class="au-page-alerts au-page-alerts--info au-page-alerts--alt">
-  Dark:       <div role="alert" class="au-body au-body--dark au-page-alerts au-page-alerts--info au-page-alerts--dark >
-  Dark Alt:   <div role="alert" class="au-body au-body--dark au-body--alt au-page-alerts au-page-alerts--info au-page-alerts--dark au-page-alerts--alt">
--->
 
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
       <span class="au-progress-indicator__status">Done</span>
@@ -14,7 +8,12 @@
               Language and structure edit
             </a>
 # What to do after a death
-
+<!--
+  Light:      <div role="alert" class="au-page-alerts au-page-alerts--info">
+  Light Alt:  <div role="alert" class="au-page-alerts au-page-alerts--info au-page-alerts--alt">
+  Dark:       <div role="alert" class="au-body au-body--dark au-page-alerts au-page-alerts--info au-page-alerts--dark >
+  Dark Alt:   <div role="alert" class="au-body au-body--dark au-body--alt au-page-alerts au-page-alerts--info au-page-alerts--dark au-page-alerts--alt">
+-->
 <div role="alert" class="au-body au-page-alerts au-page-alerts--info">
   <h3>Important</h3>
   <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our <a href={{site.baseurl/about}}> About page </a> </p>
