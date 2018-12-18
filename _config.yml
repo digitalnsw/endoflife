@@ -8,7 +8,7 @@ twitter_username: tjharrop
 github_username:  tjharrop
 stage: alpha
 
-browserTitle: title: What to do after a death
+browserTitle: What to do after a death
 
 # Build settings
 markdown: kramdown
