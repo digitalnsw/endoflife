@@ -1,6 +1,7 @@
 ---
 breadcrumb: Arrange the funeral
 name: Arrange the funeral
+layout: accordion
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
       <span class="au-progress-indicator__status">Doing</span>
