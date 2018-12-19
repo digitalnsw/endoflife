@@ -1,6 +1,7 @@
 ---
 breadcrumb: Letting people know
 name: Letting people know
+layout: sidenav
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
       <span class="au-progress-indicator__status">Doing</span>

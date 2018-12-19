@@ -1,6 +1,7 @@
 ---
 breadcrumb: Mental health and grief
 name: Mental health and grief
+layout: sidenav
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
       <span class="au-progress-indicator__status">To Do</span>

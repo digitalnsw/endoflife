@@ -1,6 +1,7 @@
 ---
 breadcrumb: Paying for a funeral
 name: Paying for a funeral
+layout: sidenav
 ---
 ### Page status
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">

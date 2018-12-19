@@ -1,3 +1,8 @@
+___
+breadcrumb: home
+name: What to do when someone dies
+layout: sidenav
+___
 
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
       <span class="au-progress-indicator__status">Done</span>

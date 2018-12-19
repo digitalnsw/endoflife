@@ -1,6 +1,7 @@
 ---
 breadcrumb: Telling family and friends
 name: Telling family and friends
+layout: sidenav
 ---
 
 # Telling family and friends

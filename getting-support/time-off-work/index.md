@@ -1,6 +1,7 @@
 ---
 breadcrumb: Time off work
 name: Time off work
+layout: sidenav
 ---
 # Taking time off work
 <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">

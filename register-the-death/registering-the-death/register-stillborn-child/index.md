@@ -1,6 +1,7 @@
 ---
 breadcrumb: stillbirth
 name: stillbirth
+layout: sidenav
 ---
 # If a child is stillborn
 <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">

@@ -1,6 +1,7 @@
 ---
 breadcrumb: Wills and inheritance
 name: Wills and inheritance
+layout: sidenav
 ---
 
 <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">

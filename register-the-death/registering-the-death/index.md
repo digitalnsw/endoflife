@@ -1,6 +1,7 @@
 ---
 breadcrumb: Registering the death
 name: Registering the death
+layout: sidenav
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
       <span class="au-progress-indicator__status">Done</span>

@@ -1,3 +1,10 @@
+---
+Breadcrumb: About
+Title: About
+layout: sidenav
+---
+
+
 # About this project
 
 This website is an active prototype, not a finished product.

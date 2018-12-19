@@ -11,11 +11,11 @@ layout: sidenav
               <span class="au-progress-indicator__status">Doing</span>
               Language and structure edit
         </a>
-    <!-- <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
               <span class="au-progress-indicator__status">To Do</span>
               Researcher review
         </a>
-    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+    <!--<a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
               <span class="au-progress-indicator__status">To Do</span>
               User testing
         </a>
@@ -30,13 +30,11 @@ layout: sidenav
     -->
 # Arrange the funeral
 
-Arranging a funeral 
+Arranging a funeral involves making decisions about what kind of service, who's invited, deciding between cremation and burial, and permanent memorials. You will usually need to have your first conversation with a funeral directors or family about the funeral arrangements within 2 days after death.
 
-Time: Within the first 2 days talk to funeral directors or family about the funeral arrangements
+In NSW, the average funeral costs around $4000. When organising the funeral, you will need to decide when to hold it, how to pay, memorial. Funeral directors help to organise most of the funeral arrangements.
 
-In NSW, the average funeral costs around $4000. When organising the funeral, you will need to decide when to hold it, how to pay, memorial. Funeral directors help to organise most of the funeral arrangements, but you will need to If you can’t pay for the funeral
-
-See Paying for a funeral. 
+See [Paying for a funeral](#arrange-the-funeral/paying-for-a-funeral). 
 
 On this page:
 * Who is responsible 

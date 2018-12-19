@@ -1,6 +1,7 @@
 ---
 breadcrumb: before you die
 title: things to organise before you die
+layout: sidenav
 ---
 
 ## Digital legacy

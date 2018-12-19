@@ -1,6 +1,7 @@
 ---
 breadcrumb: Financial support
 name: Financial support
+layout: sidenav
 ---
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
       <span class="au-progress-indicator__status">Done</span>

@@ -1,6 +1,7 @@
 ---
 breadcrumb: Register the death
 name: Register the death
+layout: sidenav
 ---
 
 # Register the death
