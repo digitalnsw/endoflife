@@ -3,15 +3,15 @@ breadcrumb: Paying for a funeral
 name: Paying for a funeral
 ---
 ### Page status
-<a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
-      <span class="au-progress-indicator__status">Doing</span>
+<a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
+      <span class="au-progress-indicator__status">Done</span>
       Get source content
     </a>
-    <!-- <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-              <span class="au-progress-indicator__status">To Do</span>
+    <a class="au-progress-indicator__link au-progress-indicator__link--doing" href="#url">
+              <span class="au-progress-indicator__status">Doing</span>
               Language and structure edit
         </a>
-    <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+    <!-- <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
               <span class="au-progress-indicator__status">To Do</span>
               Researcher review
         </a>
@@ -30,13 +30,22 @@ name: Paying for a funeral
     -->
 # Paying for a funeral
 
+A basic funeral costs around $5,000 and the person who organises the funeral will need to pay for it. To pay for a funeral you might use a pre-paid plan, insurance, a funeral bond. If you can't pay for the funeral or are in financial difficulty you might be able to get support. 
+
+On this page:
+* [How much does a funeral cost?](#How-much-does-a-funeral-cost?)
+* [Funeral insurance and pre-paid plans](#Funeral-insurance-and-pre-paid-plans)
+* [Getting money released from banks](#getting-money-released-from-banks)
+* [If you can't pay for a funeral](#if-you-can't-pay-for-a-funeral)
+* [Getting help with funeral costs](#getting-help-with-funeral-costs)
+
 ## How much does a funeral cost?
 
-In Australia, the cost of a basic funeral starts from around $5,000.The cost will vary greatly depending on the kind of service and the funeral company you use. Your partner may have left instructions about their funeral in their will.
+In Australia, the cost of a basic funeral starts from around $5,000. The cost will be different depending on the kind of service you have and the funeral company you use. 
 
-To find out how much the funeral will cost, ask the funeral director for an itemised and written quote. Don't be afraid to ask questions. If you don't feel up to doing this yourself, ask a friend or family member to make the calls for you. While an itemised quote is required by law for basic funerals in NSW, you can ask for an itemised quote, no matter where you are in Australia.
+To find out exactly how much the funeral will cost, ask the funeral director for an itemised and written quote. In NSW, it's the law that funeral directors provide an itemised quote. 
 
-Try to spend only what you can afford. Here are some of the costs to consider:
+Here are some of the costs to ask about:
 
 * Funeral director fees
 * Transport
@@ -47,13 +56,12 @@ Try to spend only what you can afford. Here are some of the costs to consider:
 * Cemetary plot
 * Other expenses, such as a celebrant or clergy, flowers, newspaper notices and the wake.
 
+If you don't feel up to doing this yourself, ask a friend or family member to make the calls for you.
+
 ^ <!-- https://www.moneysmart.gov.au/life-events-and-you/life-events/losing-your-partner -->
 
+## Ways to pay for a funeral
 
-# Ways to pay for a funeral
-
-## Getting funds released from financial institutions
-## Funeral plans
 As an executor or next of kin it is important that you check if the deceased had a funeral insurance plan.
 
 Some people pay for their own funeral before they die. This is called a 'funeral plan'. There are different types of funeral plans, such as:
@@ -62,13 +70,13 @@ Some people pay for their own funeral before they die. This is called a 'funeral
 * Funeral bond
 * Funeral insurance
 
-## Pre-paid funeral
+### Pre-paid funeral 
 A pre-paid funeral is where a person plans their own funeral and pays for it with a funeral director of their choice. The funeral plan is a written contract which includes details of how the funeral will take place. The money is held in a funeral fund registered with NSW Department of Fair Trading. The money is paid directly to the funeral director after the funeral.
 
-## Funeral bond
+### Funeral bonds
 A funeral bond is money invested by a person to pay for their own funeral. To pay for the bond, you usually pay a deposit then regular monthly instalments. There is a maximum contribution limit on funeral bonds. The current funeral bond limit is $12 500 (as at 1 July 2016). The bond can only be paid out after the person dies and the payout will be the value of the investment at the time.
 
-## Funeral insurance
+### Funeral insurance
 Funeral insurance involves a person making regular payments, called a 'premium, to an insurer. After the person dies the insurer pays a set amount of money to a nominated beneficiary. The beneficiary may then use this money to pay for the funeral.
 
 For more information about different types of funeral plans, go to the NSW Department of Fair Trading website.
@@ -102,6 +110,5 @@ Some organisations can help with the cost of a funeral. Contact the Department o
 
 A bereavement payment may be available through the Department of Human Services. See their webpage on what to do following a death or call 13 23 00 (1800 810 586 for TTY service).
 
-## Related
 
 ^ <!-- ASIC: MoneySmart arranging a funeral https://www.moneysmart.gov.au/life-events-and-you/life-events/losing-your-partner -->
