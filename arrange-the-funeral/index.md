@@ -37,12 +37,12 @@ In NSW, the average funeral costs around $4000. When organising the funeral, you
 See [Paying for a funeral](/endoflife/arrange-the-funeral/paying-for-a-funeral). 
 
 On this page:
-* Who is responsible 
-* What's involved in arranging a funeral
-* When to hold the funeral 
-* Holding a service at home
-* Cremation and burial  
-* Memorials, headstones, and family plots
+* [Who is responsible](#who-is-responsible) 
+* [What's involved in arranging a funeral](#what's-involved-in-arranging-funeral)
+* [When to hold the funeral](#when-to-hold-a-funeral) 
+* [Holding a service at home](#holding-a-service-at-home)
+* [Cremation and burial](#cremation-and-burial)  
+* [Memorials, headstones, and family plots](#memorials-headstones-and-family-plots)
 
 
 ## Who is responsible

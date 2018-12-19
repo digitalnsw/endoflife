@@ -33,10 +33,16 @@ layout: sidenav
 
 Time: within 7 days of the funeral
 
-## If the death occurred overseas
-## How long does it take for the death to be registered?
+On this page 
+* [Completing the death registration form](#completing-the-death-registration-form)
+* [How long does it take?]([#how-long-does-it-take-for-the-death-to-be-registered?)
+* [How much does it cost?](#How-much-does-it-cost?)
+* [If the death happened overseas](#If-the-death-happened-overseas)
+* [Registering the death of a stillborn child](#registering-the-death-of-a-stillborn-child)
 
-# Registering the death
+
+
+
 Usually your funeral director will register the death for you, but you can register the death yourself if you are the next-of-kin or a relative.
 
 To register a death, you will need to:
@@ -46,7 +52,7 @@ To register a death, you will need to:
 
 You need to register the death within 7 days of the funeral.
 
-## Filling in the death registration form
+## Completing the death registration form
 To complete the death registration form, you’ll need to provide their:
 
 * surname and first name
@@ -66,7 +72,13 @@ You can submit this form either:
 * In person at ServiceNSW
 * In person at a Birth Deaths and Marriages
 * By mail to:
-      Address [?]
+
+<!--
+  Light:  <a class="au-cta-link" href="#">
+  Dark:   <a class="au-cta-link au-cta-link--dark" href="#"> 
+-->
+
+<a class="au-cta-link" href="https://www.bdm.nsw.gov.au/">More information at NSW Births Deaths and Marriages</a>
 
 ## Medical certificate of cause of death
 The medical certificate of cause of death is used to record how, where, and when a person has died. It is usually completed by a doctor in a hospital, and is then given to your funeral director.The funeral director will file this form when they register the death on your behalf.
@@ -76,6 +88,10 @@ If you are registering the death yourself, you will need to talk to the doctor o
 If it’s not clear what has caused the death, the doctor cannot complete a medical certificate of cause of death. The doctor will refer the death If the refer the death to the Coroner.
 
 When a death is referred to the Coroner, they will investigate the death. This can cause delays to cremation and burial.
+
+## How long does it take for the death to be registered?
+
+## If the death occurred overseas
 
 ## Registering the death of a stillborn child
 A stillbirth which occurs in NSW is registered as a birth and contains a notation of the stillbirth. At the time of registration you also have the option to purchase a birth certificate. As a stillbirth is not registered as a death, the Registry cannot issue a death certificate.

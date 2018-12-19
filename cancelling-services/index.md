@@ -28,7 +28,20 @@ layout: sidenav
                   Live
         </a>
     -->
-# Cancelling services
+# Cancelling and transferring services
+
+Let services know that someone has dies so that you can either cancel or transfer the services to a new person. 
+ 
+
+On this page: 
+* [Bank accounts](#bank-accounts) 
+* [Phone and internet](#phone-and-internet)
+* [Electricity and gas](#electricity-and-gas)
+* [Mail and mail boxes](#mail-and-mail-boxes)
+* [Email and online accounts](#email-and-online-accounts)
+* [Cancelling a drivers licence](#cancelling-a-drivers-licence)
+* [Centrelink and pensions](#centrelink-and-other-payments)
+
 
 ## Cancelling bank accounts
 

@@ -30,9 +30,14 @@ layout: sidenav
 -->
 # Mental health and grief
 
-Overview of these things
+On this page:
+* [What services are available?](#what-support-services-are-available?)
+* [What to expect](#what-to-expect)
+* [Free services](#free-services)
+* [Help paying for support services](#help-paying-for-support-services)
+* [Support services for children](support-services-for-children)
 
-## Support services you can access
+## What services are available?
 
 * Counselling services
 * Grief counsellor
@@ -60,7 +65,7 @@ There is a comprehensive listing of online bereavement resources available from 
 
 ### How much do support services cost?
 
-### Help paying for support services
+## Help paying for support services
 
 ## Services for children
 
