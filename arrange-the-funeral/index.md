@@ -53,7 +53,7 @@ On this page:
 -->
 
 <p class="au-callout" aria-label="Callout description1">
-  <p> The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a quote, and know how you are going to pay for the funeral. </a> 
+The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a quote, and know how you are going to pay for the funeral.
 </p>
 
 If there is a Will, the executor is usually responsible for arranging the funeral, unless they decide to pass the responsibility to another family member.
