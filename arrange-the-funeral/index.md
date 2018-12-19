@@ -48,15 +48,13 @@ On this page:
 ## Who is responsible
 
 <!--
-  Light:      <div role="alert" class="au-page-alerts au-page-alerts--info">
-  Light Alt:  <div role="alert" class="au-page-alerts au-page-alerts--info au-page-alerts--alt">
-  Dark:       <div role="alert" class="au-body au-body--dark au-page-alerts au-page-alerts--info au-page-alerts--dark >
-  Dark Alt:   <div role="alert" class="au-body au-body--dark au-body--alt au-page-alerts au-page-alerts--info au-page-alerts--dark au-page-alerts--alt">
+  Light:  <p class="au-callout">
+  Dark:   <p class="au-callout au-callout--dark">
 -->
-<div role="alert" class="au-body au-page-alerts au-page-alerts--info">
-  <h3>Important</h3>
-  <p> The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a quote, and know how you are going to pay for the funeral. </a> </p>
-</div>
+
+<p class="au-callout" aria-label="Callout description1">
+  <p> The person who organises the funeral is responsible for paying for it. Before you sign documents with funeral directors, make sure you've requested a quote, and know how you are going to pay for the funeral. </a> 
+</p>
 
 If there is a Will, the executor is usually responsible for arranging the funeral, unless they decide to pass the responsibility to another family member.
 
