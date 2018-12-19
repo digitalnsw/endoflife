@@ -3,7 +3,6 @@ breadcrumb: home
 name: What to do when someone dies
 layout: sidenav
 ___
-
 <a class="au-progress-indicator__link au-progress-indicator__link--done" href="#url">
       <span class="au-progress-indicator__status">Done</span>
       Get source content
@@ -12,7 +11,9 @@ ___
               <span class="au-progress-indicator__status">doing</span>
               Language and structure edit
             </a>
+
 # What to do after a death
+
 <!--
   Light:      <div role="alert" class="au-page-alerts au-page-alerts--info">
   Light Alt:  <div role="alert" class="au-page-alerts au-page-alerts--info au-page-alerts--alt">
