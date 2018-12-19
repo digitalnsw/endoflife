@@ -34,7 +34,7 @@ Arranging a funeral involves making decisions about what kind of service, who's 
 
 In NSW, the average funeral costs around $4000. When organising the funeral, you will need to decide when to hold it, how to pay, memorial. Funeral directors help to organise most of the funeral arrangements.
 
-See [Paying for a funeral](/arrange-the-funeral/paying-for-a-funeral). 
+See [Paying for a funeral](/endoflife/arrange-the-funeral/paying-for-a-funeral). 
 
 On this page:
 * Who is responsible 
