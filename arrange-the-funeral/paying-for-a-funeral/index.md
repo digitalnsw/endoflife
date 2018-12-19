@@ -43,7 +43,14 @@ On this page:
 
 In Australia, the cost of a basic funeral starts from around $5,000. The cost will be different depending on the kind of service you have and the funeral company you use. 
 
+* A basic cremation costs about $4,000.
+* A basic burial costs about $5,000; and in
+addition you will need to pay for the burial
+plot which costs from $2,600 to $15,500.
+
 To find out exactly how much the funeral will cost, ask the funeral director for an itemised and written quote. In NSW, it's the law that funeral directors provide an itemised quote. 
+
+Many funeral directors are part of the same company. When you are comparing prices, make sure that you are getting a real comparison between different companies.
 
 Here are some of the costs to ask about:
 
@@ -59,6 +66,8 @@ Here are some of the costs to ask about:
 If you don't feel up to doing this yourself, ask a friend or family member to make the calls for you.
 
 ^ <!-- https://www.moneysmart.gov.au/life-events-and-you/life-events/losing-your-partner -->
+
+^ <!-- COTA victoria -->
 
 ## Ways to pay for a funeral
 
