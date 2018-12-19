@@ -30,14 +30,8 @@ name: First steps
             -->
 # First steps
 
-<!--
-  Light:  <p class="au-callout">
-  Dark:   <p class="au-callout au-callout--dark">
--->
+When someone dies there are some things that need to happen right away, including telling authorities or doctors, organising care for the body and finding the will. 
 
-<p class="au-callout" aria-label="Callout description1">
-When someone dies, these are the things that need to be done right away.
-</p>
 On this page:
 * [Let authorities know](#let-authorities-know)
 * [Organise care of the body](#organise-care-of-the-body)
@@ -48,7 +42,16 @@ On this page:
 
 ## Let authorities know
 
-If the person died unexpectedly or in an accident, call 000.
+<!--
+  Light:  <p class="au-callout">
+  Dark:   <p class="au-callout au-callout--dark">
+-->
+
+<p class="au-callout" aria-label="Callout description1">
+
+If the person died unexpectedly or in an accident, call 000. 
+
+</p>
 
 If the person was in care when they died, contact their doctor or nurse.
 
@@ -60,7 +63,7 @@ Depending on how the person died, a doctor, nurse or coroner will examine the bo
 
 If you are using a funeral director, the hospital or aged care facility will organise care of the body with them. This usually involves:  
 
-* Transport of the body to a funeral home or house
+* Transporting the body to a funeral home or house
 * Storing the body before the funeral
 * Preparing the body for cremation or burial
 
