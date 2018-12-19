@@ -11,11 +11,11 @@ name: Paying for a funeral
               <span class="au-progress-indicator__status">Doing</span>
               Language and structure edit
         </a>
-    <!-- <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
-              <span class="au-progress-indicator__status">To Do</span>
-              Researcher review
-        </a>
     <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
+              <span class="au-progress-indicator__status">To Do</span>
+              Researcher review/Content clinic
+        </a>
+    <!-- <a class="au-progress-indicator__link au-progress-indicator__link--todo" href="#url">
               <span class="au-progress-indicator__status">To Do</span>
               User testing
         </a>
@@ -97,9 +97,27 @@ Where a person's death is being investigated by the coroner, the coroner will as
 
 The cost of a destitute funeral is paid by the Area Health Service and is a basic funeral service. The Area Health Service will contact the deceased's next of kin to let them know about the funeral arrangements so that relatives and friends can attend.
 
-The deceased is usually cremated unless the deceased's next of kin or relatives refuse cremation. If the deceased is cremated, the next of kin is entitled to have the ashes of the deceased. If the deceased's next of kin requests a burial instead of cremation, the deceased will be buried in a common grave. The grave site is identified by a number with no other headstone.
+The person is usually cremated unless the deceased's next of kin or relatives refuse cremation. If the deceased is cremated, the next of kin is entitled to have the ashes of the deceased. If the deceased's next of kin requests a burial instead of cremation, the deceased will be buried in a common grave. The grave site is identified by a number with no other headstone.
 
 ^ <!-- http://www.lawaccess.nsw.gov.au/Pages/representing/after_someone_dies/funerals/paying_for_the_funeral.aspx -->
+## What is a basic funeral
+
+A basic funeral is the lowest cost funeral service package the funeral director is able to provide. It consists of a single service, conducted at the funeral director’s premises or at the burial or cremation site. It would take place on a weekday between 8am and 5pm.
+
+A basic funeral includes only the following:
+
+* arrangement and conduct of the funeral
+* transportation of the body to the funeral director’s premises, mortuary and
+* burial or cremation site
+* storage of the body at a mortuary or holding room
+* preparation of the body for burial or cremation (does not include preparation for viewing or embalming)
+* the least expensive coffin available
+* compulsory medical certificates or permits
+* burial or cremation of the body" (State Library of NSW– legal answers)
+* Using a funeral director
+* When does a funeral need to happen
+
+~ <!-- this is taken from the state library legal matters website -->
 
 ## Getting help with funeral costs
 If you are paying for a partner's funeral, their bank may be able to release money from their account to help pay funeral expenses before 'probate' is granted (that is, before the court validates their will).
