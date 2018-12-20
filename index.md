@@ -14,7 +14,7 @@ layout: sidenav
 -->
 <div role="alert" class="au-body au-page-alerts au-page-alerts--info">
   <h3>Important</h3>
-  <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our <a href="https://www.stofbrew.github.io/endoflife/about"> About page </a> </p>
+  <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our <a href="https://www.stofbrew.github.io/endoflife/about/"> About page </a> </p>
 </div>
 
 In New South Wales, what you need to do after a death will be different depending on:
