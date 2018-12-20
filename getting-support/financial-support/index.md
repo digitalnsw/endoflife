@@ -35,10 +35,12 @@ layout: sidenav
 
 If you are already on payments. If you need financial advice. If you are Aboriginal or Torres Strait Islander.  
 
-* bereavement payments
-* help paying for a funeral
-* If you are already receiving a
-* getting financial advice
+On this page: 
+* [bereavement payments](#getting-bereavement-payments)
+* [Help paying for a funeral](#help-paying-for-a-funeral)
+* [Insurance](#insurance)
+* [Loans and payment schemes](#loans-and-payments)
+* [Getting financial advice](#getting-financial-advice)
 
 ## Getting bereavement payments
 
@@ -86,6 +88,8 @@ To apply, complete the [Funeral Grant Claim Form 829KB PDF](http://alc.org.au/me
 
 ~<!-- unclear if this is still relevant. -->
 ^<!-- http://alc.org.au/nswalc-in-the-community/funeral-fund.aspx -->
+## Insurance 
+
 ### Insurance: motor vehical accidents
 Relatives of a person who dies in a motor vehicle accident where the driver was not at fault should seek legal advice as to their rights. In such cases, relatives are entitled to claim funeral expenses from the other driver’s insurance company.
 ^<!--https://legalanswers.sl.nsw.gov.au/rest-assured-legal-guide-wills-estates-and-funerals/financial-assistance-funerals-->
@@ -121,7 +125,6 @@ Centrelink offers a free [financial information service](https://www.humanservic
 <a class="au-cta-link" href="https://www.humanservices.gov.au/individuals/services/financial-information-service">Get more information </a>
 
 
-## Related
 
 ^<!-- Centrelink financial information service https://www.humanservices.gov.au/individuals/services/financial-information-service -->
 

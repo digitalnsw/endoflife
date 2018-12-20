@@ -29,16 +29,22 @@ layout: sidenav
               Live
     </a>
 -->
-A stillbirth is a traumatic and often unexpected outcome of pregnancy for the parents and their family. It is important for the parents to have an opportunity to grieve their loss and arranging a funeral may help them to do this.
+
+
+Funerals
 
 ## Funeral of a stillborn baby
+
+It is important for the parents to have an opportunity to grieve their loss and arranging a funeral may help them to do this.
+
 The law requires that stillborn babies be either cremated or buried. The procedures are:
 
-the birth must be registered by the parents in the normal way
-if the doctor requests a post-mortem, a consent form must be signed by the parent
-the doctor completes a perinatal medical certificate of cause of death
-the funeral director completes a perinatal form of information of death.
-Naming the baby
+* the birth must be registered by the parents in the normal way
+* if the doctor requests a post-mortem, a consent form must be signed by the parent
+* the doctor completes a perinatal medical certificate of cause of death
+* the funeral director completes a perinatal form of information of death.
+
+## Naming the baby
 If the parents wish, they can give the baby a name; otherwise, ‘Baby’ is accepted as a given name. The Registry of Births, Deaths and Marriages issues birth certificates for stillborn babies.
 
 ## Blessings and baptisms

@@ -30,6 +30,8 @@ layout: sidenav
 -->
 # Mental health and grief
 
+There are some services that might help you. Some services are subsidised through Medicare. If you are on a payment or pension, you might be able to get help paying for support services. 
+
 On this page:
 * [What services are available?](#what-support-services-are-available?)
 * [What to expect](#what-to-expect)

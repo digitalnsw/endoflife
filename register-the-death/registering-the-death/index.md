@@ -31,19 +31,18 @@ layout: sidenav
             -->
 # Registering the death
 
-Time: within 7 days of the funeral
+Usually your funeral director will register the death for you, but you can register the death yourself if you are the next-of-kin or a relative. You need to register the death within 7 days after the funeral. 
 
-On this page 
+
+On this page: 
+* [Documents you need to register a death](#documents-you-need-to-register-a-death)
 * [Completing the death registration form](#completing-the-death-registration-form)
 * [How long does it take?]([#how-long-does-it-take-for-the-death-to-be-registered?)
 * [How much does it cost?](#How-much-does-it-cost?)
 * [If the death happened overseas](#If-the-death-happened-overseas)
 * [Registering the death of a stillborn child](#registering-the-death-of-a-stillborn-child)
 
-
-
-
-Usually your funeral director will register the death for you, but you can register the death yourself if you are the next-of-kin or a relative.
+## Documents you need to register a death 
 
 To register a death, you will need to:
 * complete a death registration form [pdf]

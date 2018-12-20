@@ -30,7 +30,7 @@ layout: sidenav
     -->
 # Cancelling and transferring services
 
-Let services know that someone has dies so that you can either cancel or transfer the services to a new person. 
+To cancel most services you will need a certified copy of the death certificate, account details, and to meet with the service face to face. If you want to transfer the services to your name, you will also need to prove your identity. 
  
 
 On this page: 
