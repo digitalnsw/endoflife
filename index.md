@@ -10,7 +10,7 @@ layout: sidenav
 }
     .au-footer.au-footer--dark {
     color: #fff;
-    border-color: #000000;
+    border-color: #DEE3E5;
     background-color: #646974;
 }
 </style>
