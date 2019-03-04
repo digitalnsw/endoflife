@@ -16,7 +16,7 @@ layout: sidenav
     
     .au-page-alerts:after {
     background-color: transparent;
-    background-image: url(data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2…h fill='rgb(153,0,9, .6)' d='M11 17.8h2v-8h-2v8zm0-11.6v2h2v-2h-2z'/%3E%3C/svg%3E);
+    background-image: url(data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2…h fill='#cccccc' d='M11 17.8h2v-8h-2v8zm0-11.6v2h2v-2h-2z'/%3E%3C/svg%3E);
 }
     
 </style>
