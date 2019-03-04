@@ -10,7 +10,7 @@ layout: sidenav
 }
     .au-footer.au-footer--dark {
     color: #fff;
-    border-color: #DEE3E5;
+    border-color: #990009;
     background-color: #646974;
 }
 </style>
@@ -22,7 +22,7 @@ layout: sidenav
   Dark:       <div role="alert" class="au-body au-body--dark au-page-alerts au-page-alerts--info au-page-alerts--dark >
   Dark Alt:   <div role="alert" class="au-body au-body--dark au-body--alt au-page-alerts au-page-alerts--info au-page-alerts--dark au-page-alerts--alt">
 -->
-<div role="alert" class="au-body au-page-alerts au-page-alerts--info" style="padding-left:2rem;">
+<div role="alert" class="au-body au-page-alerts au-page-alerts--info" style="padding-left:2rem; border-color: rgba(153, 0, 9, .5)">
   <h3>Important</h3>
   <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our <a href="about"> About page </a> </p>
 </div>
