@@ -3,7 +3,12 @@ Breadcrumb: Home
 Title: What to do when someone dies
 layout: sidenav
 ---
-
+<style>
+.au-header.au-header--dark {
+    color: #fff;
+    background-color: #646974;
+}
+</style>
 # What to do after a death
 
 <!--
@@ -12,7 +17,7 @@ layout: sidenav
   Dark:       <div role="alert" class="au-body au-body--dark au-page-alerts au-page-alerts--info au-page-alerts--dark >
   Dark Alt:   <div role="alert" class="au-body au-body--dark au-body--alt au-page-alerts au-page-alerts--info au-page-alerts--dark au-page-alerts--alt">
 -->
-<div role="alert" class="au-body au-page-alerts au-page-alerts--info" style="padding-left:2rem; border-color:#DEE3E5">
+<div role="alert" class="au-body au-page-alerts au-page-alerts--info" style="padding-left:2rem; border-color:#646974">
   <h3>Important</h3>
   <p>This website is an active prototype, not a finished product. The information is not complete and should not be treated as formal or official advice. For more information see our <a href="about"> About page </a> </p>
 </div>
