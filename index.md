@@ -3,23 +3,7 @@ Breadcrumb: Home
 Title: What to do when someone dies
 layout: sidenav
 ---
-<style>
-.au-header.au-header--dark {
-    color: #fff;
-    background-color: #646974;
-}
-    .au-footer.au-footer--dark {
-    color: #fff;
-    border-color: #990009;
-    background-color: #000000;
-}
-    
-    .au-page-alerts:after {
-    background-color: transparent;
-    background-image: url(data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2…h fill='#cccccc' d='M11 17.8h2v-8h-2v8zm0-11.6v2h2v-2h-2z'/%3E%3C/svg%3E);
-}
-    
-</style>
+
 # What to do after a death
 
 <!--
