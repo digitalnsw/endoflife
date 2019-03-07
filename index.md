@@ -4,7 +4,7 @@ Title: What to do when someone dies
 layout: sidenav
 ---
 
-# What to do after a death
+# What to do when someone dies What to do after a death
 
 <!--
   Light:      <div role="alert" class="au-page-alerts au-page-alerts--info">
