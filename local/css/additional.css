@@ -9,16 +9,17 @@ body {
 .au-header.au-header--dark {
     color: #fff;
     background-color: #646974;
-    width:110%;
-  top:-5%;
-  left:-5%;
-  transform:rotate(2deg);
+    width:115%;
+  top:5%;
+  left:5%;
+  transform:rotate(-2deg);
+  margin-top: -30px;
+  margin-left: -20px;
 }
 
 
 .au-header__brand {
-  margin-left:5%;
-  transform:rotate(-2deg);
+  transform:rotate(2deg);
 }
 
 
