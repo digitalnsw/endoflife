@@ -11,9 +11,12 @@
     0 0,
     100% 0,
     100% 100%,
-    0 calc(100% - 6vw)
+    0 calc(100% - 2vw)
   );
 }
+
+a.au-header__brand {
+margin-bottom:30px}
 
 
 
