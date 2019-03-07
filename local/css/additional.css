@@ -1,9 +1,26 @@
 /* CSS goes here */
 
+body {
+  overflow:hidden;
+}
+
+
+
 .au-header.au-header--dark {
     color: #fff;
     background-color: #646974;
+    width:110%;
+  top:-5%;
+  left:-5%;
+  transform:rotate(2deg);
 }
+
+
+.au-header__brand {
+  margin-left:5%;
+  transform:rotate(-2deg);
+}
+
 
 .au-footer.au-footer--dark {
     color: #fff;
@@ -14,3 +31,4 @@
 .au-page-alerts {
     padding-left:2rem !important;
 }
+
