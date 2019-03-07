@@ -15,7 +15,7 @@
   );
 }*/
 
-.au-header.au-header--dark::after {
+header.au-header.au-header--dark::after {
   position:absolute;
   content: " ";
   display:block;
