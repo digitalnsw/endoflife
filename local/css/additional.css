@@ -4,16 +4,17 @@
 .au-header.au-header--dark {
     color: #fff;
     background-color: #646974;
-  transform:rotate(-2deg);
-  margin-top: -40px;
-  margin-left: -20px;
-  padding-top:5.5rem;
 }
 
-
-.au-header__brand {
-  transform:rotate(2deg);
+.au-header.au-header--dark {
+  clip-path: polygon(
+    0 0,
+    100% 0,
+    100% 100%,
+    0 calc(100% - 6vw)
+  );
 }
+
 
 
 .au-footer.au-footer--dark {
