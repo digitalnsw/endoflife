@@ -6,13 +6,25 @@
     background-color: #646974;
 }
 
-.au-header.au-header--dark {
+/*.au-header.au-header--dark {
   clip-path: polygon(
     0 0,
     100% 0,
     100% 100%,
     0 calc(100% - 2vw)
   );
+}*/
+
+.au-header.au-header--dark::after {
+  position:absolute;
+  content: " ";
+  display:block;
+  left:0;
+  bottom:-20px;
+  width:100%;
+  border-style: solid;
+  border-width: 0 100vw 20px 0;
+  border-color: transparent rgba(0,0,0,0.4) transparent transparent;
 }
 
 a.au-header__brand {
