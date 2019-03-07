@@ -13,8 +13,9 @@ body {
   top:5%;
   left:5%;
   transform:rotate(-2deg);
-  margin-top: -30px;
+  margin-top: -40px;
   margin-left: -20px;
+  paddin-top:5.5rem;
 }
 
 
