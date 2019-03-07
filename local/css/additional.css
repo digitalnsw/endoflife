@@ -16,9 +16,9 @@
 }*/
 
 .au-header.au-header--dark {
-  border-style: solid;
+  border-bottom-style: solid;
   border-width: 0 100vw 20px 0;
-  border-color: transparent rgba(0,0,0,1) transparent transparent;
+  border-bottom-color: transparent rgba(0,0,0,1) transparent transparent;
 }
 
 a.au-header__brand {
