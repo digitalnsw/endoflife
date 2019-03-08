@@ -6,25 +6,15 @@
     background-color: #646974;
 }
 
-/*.au-header.au-header--dark {
+.au-header.au-header--dark {
   clip-path: polygon(
     0 0,
     100% 0,
     100% 100%,
     0 calc(100% - 2vw)
   );
-}*/
-
-.au-header.au-header--dark {
-
-clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
 }
 
-/*.au-header.au-header--dark {
-  border-bottom-style: solid;
-  border-width: 0 100vw 20px 0;
-  border-bottom-color: transparent rgba(0,0,0,1) transparent transparent;
-}*/
 
 a.au-header__brand {
 margin-bottom:30px}
