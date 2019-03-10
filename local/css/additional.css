@@ -4,6 +4,7 @@
 .au-header.au-header--dark {
     color: #fff;
     background-color: #646974;
+    border-bottom:5px solid #000;
 }
 
 .au-header.au-header--dark {
