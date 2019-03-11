@@ -2,33 +2,39 @@
 
 
 .au-header.au-header--dark {
-    color: #fff;
-    background-color: #646974;
+	color: #fff;
+	background-color: #646974;
 	position: relative;
-
 }
-
-
-.au-header.au-header--dark:after {
-	background-image: url("header-bottom.svg");
-    width:100%;
-    height:100px;
-    content:"";
-	position: absolute;
-bottom: -100px;
-background-size: cover;
-}
-
 .au-footer.au-footer--dark {
-    color: #fff;
-    border-color: #990009;
-    background-color: #646974;
-} 
-
-.au-page-alerts {
-    padding-left:2rem !important;
+	color: #fff;
+	border-color: #990009;
+	background-color: #646974;
 }
-
+.au-page-alerts {
+	padding-left: 2rem !important;
+}
 main .au-body {
 	padding-top: 4rem;
+}
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+.au-header.au-header--dark:after {
+	background-image: url("header-bottom.svg");
+	width: 100%;
+	height: 100px;
+	content: "";
+	position: absolute;
+	bottom: -100px;
+	background-size: cover;
+}
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
 }
