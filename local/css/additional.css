@@ -8,9 +8,9 @@
 }
 
 
-.au-header.au-header--dark:after {
+.au-header.au-header--dark::after {
     position: absolute;
-    bottom:-100px;
+    bottom:0;
     left:0;
     background-image: ../header-bottom.svg; 
 
