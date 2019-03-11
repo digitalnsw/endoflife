@@ -8,10 +8,11 @@
 }
 
 
-.header-bottom{
+.au-header.au-header--dark:after {
     background-image: ../header-bottom.svg; 
     width:100%;
     height:100px;
+    content:"text-goes-here"
 
 
 
