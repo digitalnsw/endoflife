@@ -4,21 +4,8 @@
 .au-header.au-header--dark {
     color: #fff;
     background-color: #646974;
-    border-bottom:5px solid #000;
+
 }
-
-.au-header.au-header--dark {
-  clip-path: polygon(
-    0 0,
-    100% 0,
-    100% 100%,
-    0 calc(100% - 2vw)
-  );
-}
-
-
-a.au-header__brand {
-margin-bottom:30px}
 
 
 
