@@ -29,3 +29,6 @@ background-size: cover;
     padding-left:2rem !important;
 }
 
+main .au-body {
+	padding-top: 4rem;
+}
