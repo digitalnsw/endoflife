@@ -13,10 +13,12 @@
 	background-image: url("header-bottom.svg");
     width:100%;
     height:100px;
-    content:"text-goes-here"
-
+    content:"text-goes-here";
+	position: absolute;
+	background-size: 100% 100px;
 
 }
+
 .au-footer.au-footer--dark {
     color: #fff;
     border-color: #990009;
