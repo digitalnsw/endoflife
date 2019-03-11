@@ -38,6 +38,13 @@ main .au-body {
 	padding-top: 6rem;
 }
 .au-header.au-header--dark:after {
+	height: 80px;
+	bottom: -80px;
+}
+}
+
+@media (min-width: 1600px) {
+.au-header.au-header--dark:after {
 	height: 100px;
 	bottom: -100px;
 }
