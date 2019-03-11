@@ -1,3 +1,4 @@
+<div class="header-bottom"></div>
 ---
 Breadcrumb: Home
 Title: What to do when someone dies
