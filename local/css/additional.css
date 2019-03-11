@@ -22,6 +22,12 @@ main .au-body {
 }
 
 @media (min-width: 768px) {
+	
+	
+		.au-header.au-header--dark  {
+		padding-bottom: 1rem;
+	}
+	
 .au-header.au-header--dark:after {
 	background-image: url("header-bottom.svg");
 	width: 100%;
