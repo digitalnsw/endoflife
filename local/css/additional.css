@@ -8,7 +8,15 @@
 }
 
 
+.au-header.au-header--dark:after {
+    position: absolute;
+    bottom:-100px;
+    left:0;
+    background-image: ../header-bottom.svg; 
 
+
+
+}
 .au-footer.au-footer--dark {
     color: #fff;
     border-color: #990009;
