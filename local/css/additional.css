@@ -26,7 +26,10 @@
 	content: "";
 	position: absolute;
 	bottom: -50px;
+	left:0;
 	background-size: cover;
+	padding:0; 
+	margin:0;
 }
 }
 
